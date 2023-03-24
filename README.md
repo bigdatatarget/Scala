@@ -1,0 +1,2 @@
+# Scala
+Scala related articles
